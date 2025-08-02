@@ -25,9 +25,4 @@ Libraries/Frameworks:
 (e.g., Tkinter, Pygame, Java Swing, Qt, etc.)
 IDE: (e.g., VS Code, IntelliJ, Code::Blocks, etc.)
 
-🚀 Prerequisites
-Make sure you have the following installed:
-
-1.Python 3.x / Java / C++ compiler
-
-2.Required libraries (if any)
+Languages used : HTML , CSS , JAVA
