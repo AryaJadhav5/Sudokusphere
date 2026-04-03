@@ -20,9 +20,8 @@ puzzle validation, and optional solving assistance. The project was developed wi
 ✅ Error highlighting for invalid inputs
 
 🛠️ Technologies Used
-Programming Language: Python / C++ / Java / (replace with the language you used)
-Libraries/Frameworks:
-(e.g., Tkinter, Pygame, Java Swing, Qt, etc.)
-IDE: (e.g., VS Code, IntelliJ, Code::Blocks, etc.)
+Programming Language:  Java 
+Libraries/Frameworks:  Java Swing
+IDE:  VS Code
 
 Languages used : HTML , CSS , JAVA
