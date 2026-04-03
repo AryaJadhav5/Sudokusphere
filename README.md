@@ -13,9 +13,9 @@ puzzle validation, and optional solving assistance. The project was developed wi
 
 ✅ Game logic to check for puzzle correctness
 
-✅ Basic GUI (if applicable)
+✅ Basic GUI 
 
-✅ Option to reset or solve the puzzle (if implemented)
+✅ Option to reset or solve the puzzle 
 
 ✅ Error highlighting for invalid inputs
 
